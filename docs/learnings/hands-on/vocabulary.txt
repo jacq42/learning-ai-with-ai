@@ -1,0 +1,5 @@
+apple,Apfel,fruit
+banana,Banane,fruit
+book,Buch,object
+happy,glücklich,emotion
+to run,rennen,action
