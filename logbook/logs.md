@@ -2,9 +2,9 @@
 
 Day 1: 2,5 hours
 - Let ChatGPT create a learning path for AI: not so happy with the result because it started by zero but shouldn't.
-- Let Claude.ai create a [learning path for AI](../docs/learnings/learning-path-by-claude.md): happy with the result and try to follow it.
+- Let Claude.ai create a [learning path for AI](../docs/learning-path-by-claude.md): happy with the result and try to follow it.
 - Started learning Python with [Python for Everybody](https://learning.edx.org/course/course-v1:MichiganX+py4e101x+2T2024/home) on edX.
-- Adjusted the [learning path from ChatGPT](../docs/learnings/learning-path-by-chatgpt.md) to my goal: better results. Maybe try it later.
+- Adjusted the [learning path from ChatGPT](../docs/learning-path-by-chatgpt.md) to my goal: better results. Maybe try it later.
 - Initial prompt for both chat models:
 ```text
 I want to learn more about AI. 
