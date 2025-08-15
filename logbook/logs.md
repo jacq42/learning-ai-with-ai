@@ -1,9 +1,11 @@
 # Logbook week 1
 
-Day 2: 2,5 hours
+Day 2: 2 hours
 - Finished [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)
 - Added week 2 of Claude's learning path to my [learning path](../docs/learning-path-by-claude.md)
 - Switched IDE to PyCharm
+- Created a venv for the project
+- Started working on the [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
 
 Day 1: 2,5 hours
 - Let ChatGPT create a learning path for AI: not so happy with the result because it started by zero but shouldn't.

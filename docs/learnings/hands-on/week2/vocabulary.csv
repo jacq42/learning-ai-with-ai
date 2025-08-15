@@ -1,0 +1,16 @@
+english,german,category,difficulty,frequency_rank
+apple,Apfel,fruit,1,500
+book,Buch,object,1,300
+happy,glücklich,emotion,2,800
+run,rennen,action,2,400
+beautiful,schön,adjective,3,600
+computer,Computer,technology,2,200
+learn,lernen,action,1,350
+friendship,Freundschaft,emotion,4,1200
+magnificent,großartig,adjective,5,2000
+algorithm,Algorithmus,technology,4,1500
+cat,Katze,,1,250
+drive,fahren,action,2,450
+excited,aufgeregt,emotion,3,900
+phone,Telefon,technology,1,180
+mountain,Berg,nature,2,700
