@@ -1,5 +1,10 @@
 # Logbook week 1
 
+Day 2: 2,5 hours
+- Finished [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)
+- Added week 2 of Claude's learning path to my [learning path](../docs/learning-path-by-claude.md)
+- Switched IDE to PyCharm
+
 Day 1: 2,5 hours
 - Let ChatGPT create a learning path for AI: not so happy with the result because it started by zero but shouldn't.
 - Let Claude.ai create a [learning path for AI](../docs/learning-path-by-claude.md): happy with the result and try to follow it.
@@ -14,4 +19,4 @@ Create a plan for me using the platforms Coursera, DeepLearning.AI,
 HuggingFace, and https://course.fast.ai/ that is tailored to me. 
 If you need to ask about my knowledge first, then do so.
 ```
-- Did [hands-on exercise](../docs/learnings/hands-on/reading-files.py)
+- Worked on [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)

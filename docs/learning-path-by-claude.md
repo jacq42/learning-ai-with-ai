@@ -24,19 +24,18 @@ Platforms: edX + Independent Learning
 - Hands-on:
     - Set up Python environment (Anaconda/Miniconda)
     - Learn Jupyter Notebooks
-    - First small Python project: Read and analyze vocabulary file
-    -
-```python
-# Create a file "vocabulary.txt" with this format:
-# apple,Apfel,fruit
-# book,Buch,object  
-# happy,glücklich,emotion
-# run,rennen,action
+    - First small Python project: [Read and analyze vocabulary file](learnings/hands-on/week1/README.md)
 
-# Project tasks:
-# 1. Read and parse file
-# 2. Group by categories  
-# 3. Output statistics (count per category)
-# 4. Implement search function
-# 5. Allow adding new vocabulary
-```
+### Week 2: Data Science Libraries Basics
+
+Platforms: Independent + HuggingFace Docs
+
+Learning Goal: pandas, numpy, matplotlib fundamentals
+Resources:
+- [Python Data Science Handbook (free online)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [pandas Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
+
+
+Hands-on:
+- Create first HuggingFace account and explore HuggingFace Docs
+- [Read and manipulate CSV files and visualize data](learnings/hands-on/week2/README.md)
