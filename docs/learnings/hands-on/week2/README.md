@@ -119,6 +119,12 @@ from collections import Counter
 import json
 ```
 
+- pandas: For loading, cleaning, exploring, and analyzing tabular data (CSV files, grouping, aggregations).
+- numpy: For efficient numerical operations and calculations, often used with pandas for advanced stats.
+- matplotlib.pyplot: For creating visualizations (bar charts, scatter plots, histograms, heatmaps).
+- collections (e.g., Counter): For counting elements, such as character frequencies in words.
+- json: For exporting summary reports and data in JSON format, as required in the export/documentation step.
+
 ## ⏰ Time Allocation
 - **Day 1 (45 min):** Parts 1-2 (Loading & Analysis)
 - **Day 2 (60 min):** Parts 3-4 (Visualization & Advanced Analysis)

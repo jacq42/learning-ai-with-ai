@@ -1,9 +1,10 @@
 # Logbook week 1
 
-Day 3: 1 hours
+Day 3: 2 hours
 - Working on [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
-- Leaned about the difference between Python dictionaries and Pandas Series
+- Learned about the difference between Python dictionaries and Pandas Series
 - Asked Copilot for feedback about the exercise: got a good summary of what was done and what needs to be done
+- Add the hole [learning path of Claude](../docs/learning-path-by-claude.md)
 
 Day 2: 2.5 hours
 - Finished [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)
