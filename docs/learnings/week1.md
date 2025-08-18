@@ -1,5 +1,18 @@
 # Learnings in week 1
 
+Day 3: 
+- Difference between Python dictionaries and Panda Series:
+  - A Python dictionary is a collection of key-value pairs, where each key is unique and maps to a value.
+  - A Pandas Series is a one-dimensional labeled array capable of holding any data type, similar to a column in a spreadsheet or a database table.
+  - A Pandas Series has additional functionality for statistical operations, indexing, and data manipulation that a standard Python dictionary does not provide.
+- Vectorizing:
+  - Applying operations to entire arrays or data structures at once, rather then using loops.
+- Alignment:
+  - When performing operations between two Series (Pandas), the values are aligned based on their index labels. If the labels do not match, the result will contain NaN for those indices.
+- Python learnings:
+  - `__main__` is a special variable in Python that indicates whether a script is being run directly or imported as a module.
+    - It is used to separate script execution from definitions (like functions/classes) 
+    
 Day 2:
 - Python likes snake_case not camelCase.
 - AI is a good pairing partner when learning structure and syntax of a not so well-known programming language like Python.

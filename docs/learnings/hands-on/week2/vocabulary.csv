@@ -10,7 +10,7 @@ friendship,Freundschaft,emotion,4,1200
 magnificent,großartig,adjective,5,2000
 algorithm,Algorithmus,technology,4,1500
 cat,Katze,,1,250
-drive,fahren,action,2,450
+drive,fahren,action,2,
 excited,aufgeregt,emotion,3,900
-phone,Telefon,technology,1,180
+phone,Telefon,technology,,180
 mountain,Berg,nature,2,700
