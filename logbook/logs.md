@@ -1,6 +1,6 @@
 # Logbook
 
-Day 4: 2 hours
+Day 4: 3 hours
 - Working on part 3 of [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
 - Learned about plotting with Matplotlib
 - Need to find out which visualization is best for the data
