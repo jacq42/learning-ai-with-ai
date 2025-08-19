@@ -1,10 +1,16 @@
-# Logbook week 1
+# Logbook
+
+Day 4: 1 hours
+- Working on part 3 of [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
+- Learned about plotting with Matplotlib
+- Need to find out which visualization is best for the data
 
 Day 3: 2 hours
 - Working on [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
 - Learned about the difference between Python dictionaries and Pandas Series
 - Asked Copilot for feedback about the exercise: got a good summary of what was done and what needs to be done
 - Add the hole [learning path of Claude](../docs/learning-path-by-claude.md)
+- Need to learn more about Pandas Series and DataFrames
 
 Day 2: 2.5 hours
 - Finished [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)

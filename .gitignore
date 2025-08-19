@@ -209,3 +209,4 @@ __marimo__/
 # IDE
 /.idea/
 
+/docs/learnings/hands-on/**/*.png
