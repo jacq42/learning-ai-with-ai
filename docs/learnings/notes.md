@@ -1,12 +1,20 @@
 # Learnings in week 1
 
+Day 4:
+- Classes and inheritance in Python are possible
+- Learnings from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/):
+  - A list in Python can have different data types.
+  - Pandas DataFrame and Series are based on NumPy arrays, which allows for efficient data manipulation and analysis.
+  - Series are one-dimensional labeled arrays
+  - DataFrames are two-dimensional labeled arrays with columns of potentially different types.
+
 Day 3: 
 - Difference between Python dictionaries and Panda Series:
   - A Python dictionary is a collection of key-value pairs, where each key is unique and maps to a value.
   - A Pandas Series is a one-dimensional labeled array capable of holding any data type, similar to a column in a spreadsheet or a database table.
   - A Pandas Series has additional functionality for statistical operations, indexing, and data manipulation that a standard Python dictionary does not provide.
 - Vectorizing:
-  - Applying operations to entire arrays or data structures at once, rather then using loops.
+  - Applying operations to entire arrays or data structures at once, rather than using loops.
 - Alignment:
   - When performing operations between two Series (Pandas), the values are aligned based on their index labels. If the labels do not match, the result will contain NaN for those indices.
 - Python learnings:
