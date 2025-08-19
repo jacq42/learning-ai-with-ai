@@ -1,9 +1,10 @@
 # Logbook
 
-Day 4: 1 hours
+Day 4: 2 hours
 - Working on part 3 of [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
 - Learned about plotting with Matplotlib
 - Need to find out which visualization is best for the data
+- Read [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 Day 3: 2 hours
 - Working on [hands-on exercise for week 2](../docs/learnings/hands-on/week2/README.md)
@@ -13,7 +14,7 @@ Day 3: 2 hours
 - Need to learn more about Pandas Series and DataFrames
 
 Day 2: 2.5 hours
-- Finished [hands-on exercise](../docs/learnings/hands-on/week1/reading-files.py)
+- Finished [hands-on exercise for week 1](../docs/learnings/hands-on/week1/reading-files.py)
 - Added week 2 of Claude's learning path to my [learning path](../docs/learning-path-by-claude.md)
 - Switched IDE to PyCharm
 - Created a venv for the project
